@@ -1,0 +1,23 @@
+Script started on Mon Mar 12 21:40:52 2018
+]0;~
+[32mAurelius Ansel@DESKTOP-EAF175C [33m~[0m
+$ whoam1[Kio[K; pwdc[K
+Aurelius Ansel
+/home/Aurelius Ansel
+]0;~
+[32mAurelius Ansel@DESKTOP-EAF175C [33m~[0m
+$ git config -l
+user.email=aureliusansel@gmail.com
+user.name=aureliusansel
+core.repositoryformatversion=0
+core.filemode=true
+core.bare=false
+core.logallrefupdates=true
+core.ignorecase=true
+remote.origin.url=https://github.com/aureliusansel/lab1.git
+remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
+]0;~
+[32mAurelius Ansel@DESKTOP-EAF175C [33m~[0m
+$ exit
+
+Script done on Mon Mar 12 21:41:13 2018
